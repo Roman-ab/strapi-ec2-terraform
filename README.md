@@ -1,3 +1,5 @@
+loom video : https://www.loom.com/share/5b3af37384114483a7c491eb20ae3d24
+
 \# 🚀 Terraform AWS EC2 Provisioning
 
 
